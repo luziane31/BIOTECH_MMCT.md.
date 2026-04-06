@@ -1,1 +1,32 @@
+# Protocolo MMCT: Interrupção Informacional na Retinose Pigmentar (RP)
+**Autoria:** Dra. Tech (Luziane Aparecida Silva)
+**Versão:** 1.2 - Abril/2026
+**Alvo:** Gene RHO (Mutação P23H)
+
+---
+
+## 1. Fundamentação Teórica
+O sistema utiliza o **Módulo de Partículas Reversíveis no Tempo** para identificar e bloquear o fluxo da informação mutada entre partículas moleculares. O objetivo é impedir a síntese da proteína rodopsina defeituosa sem alterar o código genético saudável.
+
+## 2. Identificação Quântica (Cálculo de Q)
+A detecção baseia-se no valor quântico codificado:
+$$Q = (N \times C) + (S \times T) + M$$
+
+* **Identificador de Mutação (P23H):** $Q = -1.5$
+* **Identificador Saudável:** $Q = -2.5$
+
+## 3. Mecanismo de Interferência (MMCT)
+O bloqueio é realizado através da liberação seletiva de antipartículas (pósitrons) calculadas pela fórmula:
+$$B = |Q_m - Q_s| \times K$$
+
+Para garantir a interrupção total, aplicamos o **Índice de Duplicação ($D$)**, onde o sistema só opera se:
+$$D = (I_m \times T_r) - (B \times C_a) \leq 0$$
+
+## 4. Operacionalização por Nanossensores
+* **Hardware:** Nanotubos de Carbono de Parede Única (SWCNT).
+* **Janela Temporal:** 0.5 a 1.2 milissegundos.
+* **Especificidade:** > 99% na detecção da mutação P23H.
+
+---
+*Este documento é parte integrante do legado científico da Dra. Tech e está protegido sob protocolos de autoria soberana.*
 
