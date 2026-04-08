@@ -1,7 +1,22 @@
 # Simulador de Interrupção Informacional MMCT
 # Protocolo: Retinose Pigmentar (Gene RHO / P23H)
 # Autoria: Dra. Tech (Luziane Silva)
-
+# =============================================================================
+# simulador_mmct.py
+# Part of SILVA-TECH IACA-CORE – Frontier Research Simulator (MMCT)
+# Copyright (c) 2026 Luziane Aparecida da Silva (Dra. Tech)
+# Licensed under SILVA-TECH HYBRID LICENSE v1.4
+#
+# This simulator implements original mathematical and physical models
+# developed by the author, including the Silva-Tech Vacuum Density Equation
+# and related canonical parameters. These represent frontier research.
+#
+# Ethical and responsible use in the advancement of science and technology
+# is expected. Mandatory attribution is required in all uses and derivatives.
+#
+# See the full LICENSE file in the repository root for complete terms.
+# Central Architecture: IACA-CORE v5.1
+# =============================================================================
 def calcular_indice_d(q_mutado, q_saudavel):
     # Parâmetros conforme seu dossiê
     K = 2        # Fator de segurança
